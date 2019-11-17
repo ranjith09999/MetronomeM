@@ -1,0 +1,6 @@
+name: Suite
+tests:
+  - name: Test
+    classes:
+      - metronome.MetronomeURL
+

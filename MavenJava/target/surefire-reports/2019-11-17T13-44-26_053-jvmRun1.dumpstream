@@ -1,0 +1,33 @@
+# Created at 2019-11-17T13:44:44.177
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:744)
+
+
+# Created at 2019-11-17T13:45:17.156
+Unexpected IOException with stream: Excel Opened
+
+
+# Created at 2019-11-17T13:45:22.142
+Unexpected IOException: 6,1,metronome.MetronomeURL,FilePath(metronome.MetronomeURL),null,null,null
+
+
+# Created at 2019-11-17T13:45:22.163
+Unexpected IOException: 5,1,metronome.MetronomeURL,ScreenCap(metronome.MetronomeURL),metronome.MetronomeURL,null,null
+
+
+# Created at 2019-11-17T13:45:24.253
+Unexpected IOException with stream: Screen Saved
+
+
+# Created at 2019-11-17T13:45:25.253
+Unexpected IOException: 6,1,metronome.MetronomeURL,ScreenCap(metronome.MetronomeURL),null,null,null
+
+
+# Created at 2019-11-17T13:45:25.254
+Unexpected IOException: 5,1,metronome.MetronomeURL,FileClose(metronome.MetronomeURL),metronome.MetronomeURL,null,null
+
+

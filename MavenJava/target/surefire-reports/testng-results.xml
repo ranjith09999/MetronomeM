@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="140045" started-at="2019-11-17T08:15:53Z" finished-at="2019-11-17T08:18:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="140045" started-at="2019-11-17T08:15:53Z" finished-at="2019-11-17T08:18:13Z">
+      <class name="metronome.MetronomeURL">
+        <test-method status="PASS" signature="Metronome_URLlogin()[pri:0, instance:metronome.MetronomeURL@197c004]" name="Metronome_URLlogin" duration-ms="85698" started-at="2019-11-17T00:15:53Z" finished-at="2019-11-17T00:17:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Metronome_URLlogin -->
+        <test-method status="PASS" signature="FilePath()[pri:0, instance:metronome.MetronomeURL@197c004]" name="FilePath" duration-ms="22432" started-at="2019-11-17T00:17:19Z" finished-at="2019-11-17T00:17:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FilePath -->
+        <test-method status="PASS" signature="ScreenCap()[pri:0, instance:metronome.MetronomeURL@197c004]" name="ScreenCap" duration-ms="2197" started-at="2019-11-17T00:17:42Z" finished-at="2019-11-17T00:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenCap -->
+        <test-method status="PASS" signature="FileClose()[pri:0, instance:metronome.MetronomeURL@197c004]" name="FileClose" duration-ms="20005" started-at="2019-11-17T00:17:44Z" finished-at="2019-11-17T00:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FileClose -->
+        <test-method status="PASS" signature="JavaEmail()[pri:0, instance:metronome.MetronomeURL@197c004]" name="JavaEmail" duration-ms="9683" started-at="2019-11-17T00:18:04Z" finished-at="2019-11-17T00:18:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaEmail -->
+      </class> <!-- metronome.MetronomeURL -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
